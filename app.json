@@ -12,7 +12,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5803113623:AAFBIw6VWB9qZYhCCjB9VyKGP7mo2G6187k"
     },
     "ENV": {
       "description": "Don't edit this Line",
@@ -20,15 +20,15 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
-      "value": ""
+      "value": "24414466"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
-      "value": ""
+      "value": "98e9d54497351d3537004b6f99d17289"
     },
     "SUDO_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1234567890"
+      "value": "6121190111"
     }
   },
   "addons": [
@@ -45,7 +45,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
